@@ -3,7 +3,7 @@
   "main": "./lib/init",
   "version": "0.0.0",
   "description": "Build your documents with MakeMD",
-  "repository": "https://github.com/josa42/atom-pandoc-convert",
+  "repository": "https://github.com/Eonm/makemd-atom",
   "license": "MIT",
   "engines": {
     "atom": ">1.30.0"
