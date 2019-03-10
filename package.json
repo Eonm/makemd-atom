@@ -1,7 +1,7 @@
 {
   "name": "MakeMD",
   "main": "./lib/init",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Build your documents with MakeMD",
   "keywords": [
     "makemd",
