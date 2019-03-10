@@ -3,6 +3,15 @@
   "main": "./lib/init",
   "version": "0.0.2",
   "description": "Build your documents with MakeMD",
+  "keywords": [
+    "makemd",
+    "markdown",
+    "pandoc",
+    "zotero",
+    "academic",
+    "pdf",
+    "reveal.js"
+  ],
   "repository": "https://github.com/Eonm/makemd-atom",
   "license": "MIT",
   "engines": {
